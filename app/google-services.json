@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892803515336",
+    "project_id": "auth-b97bc",
+    "storage_bucket": "auth-b97bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892803515336:android:e4839ce12b379a29dcb6fd",
+        "android_client_info": {
+          "package_name": "com.example.latihanauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892803515336-e4glr78d9ps66erqa18dh5cdjiok68na.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihanauth",
+            "certificate_hash": "c560add09f4f3c385103e1c125e9433678ff5e52"
+          }
+        },
+        {
+          "client_id": "892803515336-quq36p1t8ng39n70udk2b89tv64fq3cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL2c1kySnowbt-sW07GfkWDGK9GhklUyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892803515336-quq36p1t8ng39n70udk2b89tv64fq3cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
